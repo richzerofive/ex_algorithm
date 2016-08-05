@@ -15,7 +15,7 @@ public class Fibonacci {
 		System.out.println("ENTER THE LAST TERM ?");
 		lastTerm = scanner.nextInt();
 	/*	for (;;) {
-			// 알고리즘 코딩
+			// 알고리즘 코딩ara
 		}*/
 		print();
 	}
